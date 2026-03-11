@@ -1,12 +1,12 @@
 # Food-Court-Management-System
 
-###Project Overview
+### Project Overview
 
 The Food Court Management System is a desktop-based application developed using Java. The system is designed to manage and organize food court operations efficiently, including food item management, order processing, customer records, and sales tracking.
 
 This project was developed as part of an academic database and programming practice to demonstrate basic system management using Java with a graphical user interface.
 
-###Project Information
+### Project Information
 
 Project Name: Food Court Management System
 Language Used: Java
